@@ -1,0 +1,181 @@
+name,rating,value
+" ,14, F. Adu",68,€850K
+ M. Boadu,75,€12M
+ Diego Carlos,80,€16.5M
+ Alex Berenguer,77,€12M
+ O. Edouard,76,€12M
+ Gabriel,78,€13.5M
+ J. Sancho,86,€63.5M
+ E. Busquets,64,€850K
+ N. Zaniolo,77,€14M
+ B. Badiashile,72,€3.6M
+ Francisco Trincão,75,€12.5M
+ M. Greenwood,74,€11M
+ V. Osimhen,78,€17M
+ P. Rajković,78,€12M
+ E. Martínez,75,€6M
+ M. Kudus,71,€4.9M
+ S. Tonali,77,€18M
+ J. Frimpong,68,€1.7M
+ Ferrán Torres,79,€19M
+ B. Saka,74,€11M
+ Eric García,69,€2M
+ Willian,82,€21M
+ E. Haaland,80,€22.5M
+ B. Godfrey,72,€4.9M
+ A. Davies,77,€12.5M
+ D. Szoboszlai,74,€10M
+ Ansu Fati,73,€8M
+ J. David,77,€15M
+ K. Havertz,84,€48.5M
+ C. Pulisic,80,€20.5M
+ W. Saliba,75,€11M
+ D. Upamecano,80,€21M
+ R. Gravenberch,70,€3.5M
+ A. Mandi,80,€15M
+ E. Camavinga,75,€10M
+ T. Almada,74,€11.5M
+ C. Immobile,87,€50.5M
+ J. Grealish,80,€20M
+ M. Çelik,76,€9.5M
+ Pau Torres,78,€14M
+ C. Hudson-Odoi,74,€11.5M
+ J. Doku,69,€2.1M
+ R. Aït Nouri,70,€3.4M
+ M. Cash,74,€7.5M
+ A. Hložek,74,€11M
+ K. Mbappé,89,€93.5M
+ M. Aarons,73,€6.5M
+ Adama Traoré,78,€14M
+ P. Aubameyang,88,€57M
+ M. Ihattaren,76,€12M
+ A. Palaversa,72,€5.5M
+ B. Williams,72,€6M
+ H. Aouar,81,€26M
+ Gabriel Martinelli,74,€11.5M
+ João Félix,80,€28M
+ T. Kubo,72,€6.5M
+ M. Kana,66,€1.2M
+ M. Škriniar,86,€52M
+ C. Montes,74,€7.5M
+ M. Rashford,84,€42M
+ R. James,75,€10.5M
+ O. Dembélé,83,€36.5M
+ Reinier,72,€6M
+ M. Mount,79,€18.5M
+ C. Acevedo,72,€3.3M
+ K. Dembélé,64,€975K
+ E. Ampadu,68,€1.7M
+ M. Depay,84,€39.5M
+ F. Valverde,82,€32.5M
+ Pedri,72,€6M
+ I. Konaté,79,€18M
+ L. Messi,94,€95.5M
+ D. Zakaria,82,€26M
+ L. Martínez,84,€44.5M
+ Riqui Puig,71,€5M
+ Rodrygo,78,€18.5M
+ P. Foden,77,€15.5M
+ Rafael Leão,75,€11.5M
+ Vinícius Jr.,79,€22.5M
+ D. Malen,77,€14M
+ B. Kamara,78,€14.5M
+ S. Esposito,67,€1.5M
+ I. Sarr,78,€17M
+ A. Gomes,68,€1.8M
+ Cristiano Ronaldo,93,€58.5M
+ H. Elliott,64,€975K
+ M. Simakan,72,€6M
+ A. Hickey,64,€825K
+ N. Pépé,82,€29.5M
+ Romário Baró,73,€8.5M
+ N. Aké,80,€17.5M
+ M. Sarr,75,€8M
+ A. Hakimi,82,€30M
+ M. Guendouzi,77,€12.5M
+ W. McKennie,76,€12.5M
+ Coutinho,85,€40.5M
+ T. Hernández,77,€11M
+ A. Saint-Maximin,80,€20.5M
+ Bruno Fernandes,86,€56.5M
+ D. Rice,78,€14M
+ Z. Ibrahimović,85,€14M
+ J. Vagnoman,66,€1.2M
+ T. Werner,86,€57.5M
+ M. Ødegaard,82,€30.5M
+ M. de Ligt,85,€47.5M
+ S. Benrahma,76,€10.5M
+ T. Alexander-Arnold,85,€46M
+ D. Kulusevski,74,€10M
+ D. Henderson,79,€14.5M
+ D. Zagadou,79,€16M
+ Y. Verschaeren,73,€8M
+ J. Gomez,82,€28M
+ F. Chiesa,78,€15M
+ F. de Jong,86,€60M
+ N. Mukiele,78,€13.5M
+ D. van de Beek,83,€33M
+ J. Iličić,84,€28M
+ J. Torunarigha,73,€6.5M
+ I. Bennacer,74,€9M
+ T. Ndombele,80,€21.5M
+ A. Martial,83,€34.5M
+ N. Domínguez,76,€13.5M
+ Neymar Jr,92,€105.5M
+ Richarlison,81,€25.5M
+ Emerson,75,€10M
+ K. Tierney,77,€12.5M
+ S. Gnabry,85,€47.5M
+ Dani Ceballos,81,€23.5M
+ E. Barco,74,€9.5M
+ Renato Sanches,78,€14.5M
+ Rúben Dias,82,€27.5M
+ Thiago,86,€44M
+ Dani Olmo,80,€23M
+ A. Romagnoli,83,€32M
+ Cucurella,79,€19.5M
+ B. Gilmour,66,€1.3M
+ T. Partey,84,€38M
+ Brahim,74,€10M
+ M. Kumbulla,74,€9M
+ M. Cuisance,72,€5.5M
+ A. Wan-Bissaka,82,€28M
+ Arthur,85,€50.5M
+ L. Hernández,84,€37.5M
+ Nuno Tavares,71,€4.1M
+ A. Isak,78,€15M
+ T. Parrott,64,€1M
+ S. Milinković-Savić,85,€50.5M
+ G. Reyna,66,€1.3M
+ J. Kimmich,87,€58M
+ B. Mbeumo,74,€9.5M
+ J. Kluivert,75,€11M
+ Diogo Dalot,75,€10M
+ J. Koundé,78,€14M
+ Bruno Guimarães,77,€14M
+ M. Rashica,80,€20.5M
+ O. Kabak,77,€12M
+ K. Hoever,62,€625K
+ N. Pope,80,€12M
+ M. Zaracho,79,€17.5M
+ F. Tomori,77,€12.5M
+ Fabián,83,€35M
+ K. Diatta,77,€14M
+ T. Abraham,79,€18M
+ C. Jones,65,€1.1M
+ N. Barella,80,€21.5M
+ L. Sané,86,€58M
+ E. Palacios,78,€16.5M
+ F. Bernardeschi,81,€21.5M
+ A. Maitland-Niles,75,€9M
+ A. Bastoni,75,€10M
+ Fábio Silva,70,€3.6M
+ P. De la Vega,71,€4.9M
+ Éder Militão,81,€23M
+ Florentino,76,€11M
+ R. De Paul,78,€13M
+ P. Dybala,87,€64.5M
+ J. Ikoné,79,€18M
+ T. Weah,69,€2.3M
+ D. Alaba,83,€26M
+ H. Ziyech,86,€52M
